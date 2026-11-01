@@ -41,7 +41,7 @@ passenger counts or actual vehicle occupancy.
 
 ## Project Documentation
 
-- [Project Charter](docs/DemandSense_Project_Charter_EN.pdf)
+- [Project Charter](docs/DemandSense_Project_Charter.pdf)
 - [Project Plan Word](docs/DemandSense_Project_Plan_EN.docx)
 
 The project plan contains the WBS, proposed responsibilities,
